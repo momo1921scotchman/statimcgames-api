@@ -1,0 +1,278 @@
+[
+  {
+    "statimc": "(s)xíts̓ken̓",
+    "english": "back (body)",
+    "image": "http://localhost:8080/images/back.jpeg",
+    "id": "1"
+  },
+  {
+    "statimc": "atsápqen(ʼ)",
+    "english": "back of head",
+    "image": "http://localhost:8080/images/back-of-head.jpg",
+    "id": "2"
+  },
+  {
+    "statimc": "atsáw̓scen",
+    "english": "knee",
+    "image": "http://localhost:8080/images/knee.jpeg",
+    "id": "3"
+  },
+  {
+    "statimc": "gítsmen",
+    "english": "tooth, teeth, fang(s)",
+    "image": "http://localhost:8080/images/teeth.jpeg",
+    "id": "4"
+  },
+  {
+    "statimc": "gwelín",
+    "english": "stomach",
+    "image": "http://localhost:8080/images/stomach.webp",
+    "id": "5"
+  },
+  {
+    "statimc": "k̓ts̓ut",
+    "english": "collarbone",
+    "image": "http://localhost:8080/images/collarbone.tiff",
+    "id": "6"
+  },
+  {
+    "statimc": "k̓wezápel̓",
+    "english": "cheeks",
+    "image": "http://localhost:8080/images/cheeks.jpeg",
+    "id": "7"
+  },
+  {
+    "statimc": "kwikws xuláka7",
+    "english": "little finger",
+    "image": "http://localhost:8080/images/little-finger.jpeg",
+    "id": "8"
+  },
+  {
+    "statimc": "lhawt",
+    "english": "lower spine",
+    "image": "http://localhost:8080/images/lower-spine.jpeg",
+    "id": "9"
+  },
+  {
+    "statimc": "lhpal̓s",
+    "english": "eyelashes",
+    "image": "http://localhost:8080/images/eyelashes.jpeg",
+    "id": "10"
+  },
+  {
+    "statimc": "máqin",
+    "english": "hair",
+    "image": "http://localhost:8080/images/hair.jpeg",
+    "id": "11"
+  },
+  {
+    "statimc": "méxwya7",
+    "english": "belly button",
+    "image": "http://localhost:8080/images/bellybutton.webp",
+    "id": "12"
+  },
+  {
+    "statimc": "n7aláka7",
+    "english": "shoulder",
+    "image": "http://localhost:8080/images/shoulder.jpeg",
+    "id": "13"
+  },
+  {
+    "statimc": "n7alál̓im̓at",
+    "english": "neck",
+    "image": "http://localhost:8080/images/neck.jpeg",
+    "id": "14"
+  },
+  {
+    "statimc": "n7aláqscen",
+    "english": "shin",
+    "image": "http://localhost:8080/images/shin.jpeg",
+    "id": "15"
+  },
+  {
+    "statimc": "n7ál̓kin̓us",
+    "english": "forehead",
+    "image": "http://localhost:8080/images/forehead.jpeg",
+    "id": "16"
+  },
+  {
+    "statimc": "n7atsáka7",
+    "english": "palm of hand",
+    "image": "http://localhost:8080/images/palm-of-hand.webp",
+    "id": "17"
+  },
+  {
+    "statimc": "n7átsaxan",
+    "english": "armpit",
+    "image": "http://localhost:8080/images/armpit.jpeg",
+    "id": "18"
+  },
+  {
+    "statimc": "n7átslaqin̓",
+    "english": "crown of head",
+    "image": "http://localhost:8080/images/crown-of-head.webp",
+    "id": "19"
+  },
+  {
+    "statimc": "n7i7ez̓kel̓wás",
+    "english": "waist, middle part",
+    "image": "http://localhost:8080/images/waist.jpg",
+    "id": "20"
+  },
+  {
+    "statimc": "nkwt̓ústen̓",
+    "english": "eyes",
+    "image": "http://localhost:8080/images/eyes.jpeg",
+    "id": "21"
+  },
+  {
+    "statimc": "nqwezápsten",
+    "english": "back of neck",
+    "image": "http://localhost:8080/images/back-of-neck.jpeg",
+    "id": "22"
+  },
+  {
+    "statimc": "nwepkilúma7",
+    "english": "eyebrows",
+    "image": "http://localhost:8080/images/eyebrows.webp",
+    "id": "23"
+  },
+  {
+    "statimc": "q̓a7zúlhq̓welt",
+    "english": "adam's apple",
+    "image": "http://localhost:8080/images/adams-apple.tiff",
+    "id": "24"
+  },
+  {
+    "statimc": "qícten",
+    "english": "elbow",
+    "image": "http://localhost:8080/images/elbow.jpeg",
+    "id": "25"
+  },
+  {
+    "statimc": "q̓p̓áw̓scen",
+    "english": "kneecap",
+    "image": "http://localhost:8080/images/kneecap.jpeg",
+    "id": "26"
+  },
+  {
+    "statimc": "q̓úmqen",
+    "english": "head",
+    "image": "http://localhost:8080/images/head.avif",
+    "id": "27"
+  },
+  {
+    "statimc": "qwemáka7",
+    "english": "wrist",
+    "image": "http://localhost:8080/images/wrist.jpeg",
+    "id": "28"
+  },
+  {
+    "statimc": "qwemtsíncen",
+    "english": "ankle, lump on ankle",
+    "image": "http://localhost:8080/images/ankle.jpeg",
+    "id": "29"
+  },
+  {
+    "statimc": "q̓weq̓ú7lh",
+    "english": "bone",
+    "image": "http://localhost:8080/images/bone.jpeg",
+    "id": "30"
+  },
+  {
+    "statimc": "q̓weq̓ú7lheqw",
+    "english": "skull",
+    "image": "http://localhost:8080/images/skull.jpeg",
+    "id": "31"
+  },
+  {
+    "statimc": "q̓wexwqín̓aka7",
+    "english": "fingernail",
+    "image": "http://localhost:8080/images/fingernail.avif",
+    "id": "32"
+  },
+  {
+    "statimc": "s7atsápl̓acen",
+    "english": "heel",
+    "image": "http://localhost:8080/images/heel.jpeg",
+    "id": "33"
+  },
+  {
+    "statimc": "skel7áka7",
+    "english": "index, pointing finger",
+    "image": "http://localhost:8080/images/index-finger.jpeg",
+    "id": "34"
+  },
+  {
+    "statimc": "skwakst",
+    "english": "hand, arm also hands on clock",
+    "image": "http://localhost:8080/images/hand.jpeg",
+    "id": "35"
+  },
+  {
+    "statimc": "skwt̓us",
+    "english": "face",
+    "image": "http://localhost:8080/images/face.webp",
+    "id": "36"
+  },
+  {
+    "statimc": "smem̓tsáz̓",
+    "english": "birthmark",
+    "image": "http://localhost:8080/images/birthmark.jpg",
+    "id": "37"
+  },
+  {
+    "statimc": "spáol̓men",
+    "english": "calf of leg",
+    "image": "http://localhost:8080/images/calf-of-leg.jpeg",
+    "id": "38"
+  },
+  {
+    "statimc": "sp̓vsqs",
+    "english": "nose",
+    "image": "http://localhost:8080/images/nose.jpeg",
+    "id": "39"
+  },
+  {
+    "statimc": "sq̓waxt",
+    "english": "foot, leg",
+    "image": "http://localhost:8080/images/foot.webp",
+    "id": "40"
+  },
+  {
+    "statimc": "swepts",
+    "english": "beard, mustache, whiskers",
+    "image": "http://localhost:8080/images/beard.webp",
+    "id": "41"
+  },
+  {
+    "statimc": "sxáw̓en̓kets",
+    "english": "chin, jaw",
+    "image": "http://localhost:8080/images/chin.webp",
+    "id": "42"
+  },
+  {
+    "statimc": "táolhao7",
+    "english": "tongue",
+    "image": "http://localhost:8080/images/tongue.jpeg",
+    "id": "43"
+  },
+  {
+    "statimc": "t̓éna7",
+    "english": "ear",
+    "image": "http://localhost:8080/images/ear.jpeg",
+    "id": "44"
+  },
+  {
+    "statimc": "tsútsin",
+    "english": "mouth",
+    "image": "http://localhost:8080/images/mouth.png",
+    "id": "45"
+  },
+  {
+    "statimc": "xzúmaka7",
+    "english": "thumb",
+    "image": "http://localhost:8080/images/thumb.jpeg",
+    "id": "46"
+  }
+]

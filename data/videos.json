@@ -1,0 +1,26 @@
+[
+  {
+    "id": "001",
+    "video": "http://localhost:8080/videos/Group_A.mp4",
+    "title": "Introductions",
+    "image": "http://localhost:8080/videos/Part1.png"
+  },
+  {
+    "id": "002",
+    "video": "http://localhost:8080/videos/Group_A.mp4",
+    "title": "Group A",
+    "image": "http://localhost:8080/videos/PartA.png"
+  },
+  {
+    "id": "003",
+    "video": "http://localhost:8080/videos/Group_B.mp4",
+    "title": "Group B",
+    "image": "http://localhost:8080/videos/PartB.png"
+  },
+  {
+    "id": "004",
+    "video": "http://localhost:8080/videos/Group_C.mp4",
+    "title": "Group C",
+    "image": "http://localhost:8080/videos/PartC.png"
+  }
+]
