@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const app = express();
-// const videosRoutes = require("./routes/videos.js");
+const videosRoutes = require("./routes/videos.js");
 const wordsRoutes = require("./routes/words.js");
 require("dotenv").config();
 
@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 5000;
 const CORS_ORIGIN = process.env.CORS_ORIGIN || "http://localhost:3000";
 app.use(cors({ origin: CORS_ORIGIN }));
 
-// app.use("/videos", videosRoutes);
+app.use("/videos", videosRoutes);
 
 app.use("/words", wordsRoutes);
 

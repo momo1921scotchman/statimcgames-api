@@ -1,25 +1,25 @@
 [
   {
     "id": "001",
-    "video": "http://localhost:8080/videos/Group_A.mp4",
+    "video": "https://youtu.be/lofYX-PWf-E?si=zTk-z-S3W7UaqMtr",
     "title": "Introductions",
     "image": "http://localhost:8080/videos/Part1.png"
   },
   {
     "id": "002",
-    "video": "http://localhost:8080/videos/Group_A.mp4",
+    "video": "https://youtu.be/6O5CuKQZKQI?si=NXSy4Bw_Bl7WVL_L",
     "title": "Group A",
     "image": "http://localhost:8080/videos/PartA.png"
   },
   {
     "id": "003",
-    "video": "http://localhost:8080/videos/Group_B.mp4",
+    "video": "https://youtu.be/XwgtDBpjE6Q?si=o1KBqLeQu66P0zk3",
     "title": "Group B",
     "image": "http://localhost:8080/videos/PartB.png"
   },
   {
     "id": "004",
-    "video": "http://localhost:8080/videos/Group_C.mp4",
+    "video": "https://youtu.be/Bdi4jV14p-4?si=pqyFY5X_X6pV5agE",
     "title": "Group C",
     "image": "http://localhost:8080/videos/PartC.png"
   }
